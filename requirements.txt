@@ -1,0 +1,16 @@
+Requirements
+commands:
+pip command
+ 
+packages and libraries:
+tkinter
+random
+copy
+time
+matplotlib
+math
+
+the commands for installing:
+
+pip install tk
+pip install matplotlib
