@@ -1,4 +1,4 @@
-# authors: Itay Sova (313246209) Dafna Shlomi (302362173)
+# authors: Itay Sova () Dafna Shlomi ()
 
 from tkinter import *
 from random import *
