@@ -548,7 +548,7 @@ def new_generations(generation, algorithm, size):
 
 
 if __name__ == "__main__":
-    seed(10)
+    #seed(10)
     # receiving values from the input file
     size = initiate_from_txt(sys.argv[1])
     print("The matrix size is: ", size, "*", size)
