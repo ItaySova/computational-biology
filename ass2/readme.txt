@@ -1,0 +1,1 @@
+the file can be run from the cmd in addition to a path to an appropriate txt file such as the following files
