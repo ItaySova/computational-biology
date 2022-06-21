@@ -1,0 +1,17 @@
+Requirements
+commands:
+pip command
+ 
+packages and libraries:
+copy
+sys
+numpy 
+matplotlib
+pandas
+hexalattice 
+
+the commands for installing:
+
+pip install matplotlib
+pip install pandas
+pip install hexalattice
