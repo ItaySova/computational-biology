@@ -1,4 +1,4 @@
-# Dafna Shlomi 302362173, Itay Sova 313246209
+# Authors: Dafna Shlomi , Itay Sova 
 
 import copy
 import sys
