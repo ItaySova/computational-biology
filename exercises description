@@ -1,5 +1,12 @@
 ex1:
+This is an application that describes the spread of a virus among the population.
+the application was inspired by the coronavirus spread and include waves of the spreading.
+the app is based on a cellular automaton - a collection of cells arranged in a grid of specified
+shape, such that each cell changes state as a function of time, according to a defined set of rules driven by the states of neighboring cells.
 
 ex2:
+This application uses genetic algorithm to solve the Futoshiki game riddle.
 
 ex3:
+This application is an implementation of a Self-Oprganized-Map algorithm.
+The application takes a csv file of the municipaly election and map the cities by the voting rates and distribution.
