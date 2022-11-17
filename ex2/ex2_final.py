@@ -1,4 +1,4 @@
-# Authors: Dafna Shlomi, Itay Sova
+# Dafna Shlomi, Itay Sova
 
 import sys
 from random import randint, random, seed
