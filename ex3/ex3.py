@@ -1,4 +1,4 @@
-# Dafna Shlomi, Itay Sova
+# Authors: Dafna Shlomi , Itay Sova 
 
 import copy
 import sys
